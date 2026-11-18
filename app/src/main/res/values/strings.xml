@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_desc">Allows JARVIS to click on-screen elements, scroll, and navigate apps on your voice command.</string>
+</resources>

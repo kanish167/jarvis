@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Always-on AI voice assistant with hands-free phone control, live weather, news, reminders, and cross-app notification summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
